@@ -1,11 +1,11 @@
 <!-- ============================================================
-     ⚠️ SUBIR TAMBÉM A PASTA "assets" (terminal.svg e services.svg)
+     ⚠️ SUBIR TAMBÉM A PASTA "assets" (header.svg, terminal.svg e services.svg)
      para a raiz do repositório darekus/darekus, na branch main.
      ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,6,24&height=260&section=header&text=Renan%20Roberto&fontSize=72&fontColor=ffffff&fontAlignY=42&animation=twinkling&desc=Designer%20%7C%20Programador%20%7C%20Game%20Developer%20%7C%20Automa%C3%A7%C3%B5es&descSize=20&descAlignY=64" width="100%" alt="header"/>
+<img src="https://raw.githubusercontent.com/darekus/darekus/main/assets/header.svg" width="100%" alt="Renan Roberto - Designer, Programador, Game Developer, Automações"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Renan+Roberto;Transformo+ideias+em+interfaces+incr%C3%ADveis;Crio+jogos%2C+sites+e+sistemas+completos;Automatizo+o+que+for+repetitivo;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
