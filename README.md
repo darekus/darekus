@@ -113,19 +113,6 @@ lema:        "Se é repetitivo, dá pra automatizar."
 
 </div>
 
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░ DISCORD ░░░░░░░░░░░░░░░░░░░░░ -->
-<h2 align="center">💬 Meu Discord</h2>
-
-<div align="center">
-
-<!-- O card abaixo precisa que você entre no servidor discord.gg/lanyard (é ele que lê sua presença) -->
-<a href="https://discord.com/users/976666605004128256">
-  <img src="https://lanyard.cnrad.dev/api/976666605004128256?theme=dark&bg=0d1117&borderRadius=20px&animated=true&idleMessage=Online%20e%20programando" alt="Meu status no Discord"/>
-</a>
-
-<br/><br/>
 
 <a href="https://discord.com/users/976666605004128256">
   <img src="https://img.shields.io/badge/Chama%20no%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Chama no Discord"/>
