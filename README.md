@@ -113,11 +113,6 @@ lema:        "Se é repetitivo, dá pra automatizar."
 
 </div>
 
-
-<a href="https://discord.com/users/976666605004128256">
-  <img src="https://img.shields.io/badge/Chama%20no%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Chama no Discord"/>
-</a>
-
 </div>
 
 <br/>
