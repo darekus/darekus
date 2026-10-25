@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Diego%20Ovalle&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Designer%20•%20Dev%20•%20Game%20Developer%20•%20Automações&descSize=20&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=60&lines=Olá%2C+eu+sou+o+Diego+👋;Transformo+ideias+em+interfaces+incríveis+🎨;Crio+jogos%2C+sites+e+sistemas+completos+🎮;Automatizo+o+que+for+repetitivo+⚙️;Aprendendo+algo+novo+todos+os+dias+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Diego+Ovalle;Designer+%7C+Programador+%7C+Game+Dev;Crio+sites%2C+sistemas+e+jogos;Automatizo+o+que+for+repetitivo;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -59,7 +59,7 @@ lema:        "Se é repetitivo, dá pra automatizar."
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=22D3EE&vCenter=true&width=300&height=120&lines=%3E+design.init()+🎨;%3E+code.build()+💻;%3E+game.play()+🎮;%3E+auto.run()+⚙️;%3E+coffee.drink()+☕" alt="terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=22D3EE&vCenter=true&width=300&height=120&lines=%3E+design.init%28%29;%3E+code.build%28%29;%3E+game.play%28%29;%3E+auto.run%28%29;%3E+coffee.drink%28%29" alt="terminal"/>
 
 </td>
 </tr>
