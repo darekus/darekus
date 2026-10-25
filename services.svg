@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="230" viewBox="0 0 896 230" role="img" aria-label="O que eu faço">
+<defs>
+<linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ec4899"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="f0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ec4899" stop-opacity="0.18"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+<linearGradient id="f1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.18"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a855f7"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+<linearGradient id="f2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a855f7" stop-opacity="0.18"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#ef4444"/></linearGradient>
+<linearGradient id="f3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.18"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10b981"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="f4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10b981" stop-opacity="0.18"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+</defs><style>text{font-family:"Segoe UI",Inter,Helvetica,Arial,sans-serif}
+@keyframes fl0{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}.c0{animation:fl0 4s ease-in-out 0.0s infinite}
+@keyframes fl1{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}.c1{animation:fl1 4s ease-in-out 0.4s infinite}
+@keyframes fl2{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}.c2{animation:fl2 4s ease-in-out 0.8s infinite}
+@keyframes fl3{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}.c3{animation:fl3 4s ease-in-out 1.2000000000000002s infinite}
+@keyframes fl4{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}.c4{animation:fl4 4s ease-in-out 1.6s infinite}
+</style>
+<g class="c0"><g transform="translate(10,15)">
+<rect width="164" height="200" rx="18" fill="url(#f0)" stroke="url(#g0)" stroke-width="2"/>
+<circle cx="82.0" cy="58" r="34" fill="url(#g0)" opacity="0.9"/>
+<text x="82.0" y="70" font-size="34" text-anchor="middle">🎨</text>
+<text x="82.0" y="128" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Design</text>
+<rect x="64.0" y="138" width="36" height="3" rx="2" fill="url(#g0)"/>
+<text x="82.0" y="162" font-size="13" fill="#9ca3af" text-anchor="middle">UI/UX, branding,</text>
+<text x="82.0" y="180" font-size="13" fill="#9ca3af" text-anchor="middle">logos e artes</text>
+</g></g>
+<g class="c1"><g transform="translate(188,15)">
+<rect width="164" height="200" rx="18" fill="url(#f1)" stroke="url(#g1)" stroke-width="2"/>
+<circle cx="82.0" cy="58" r="34" fill="url(#g1)" opacity="0.9"/>
+<text x="82.0" y="70" font-size="34" text-anchor="middle">🌐</text>
+<text x="82.0" y="128" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Sites</text>
+<rect x="64.0" y="138" width="36" height="3" rx="2" fill="url(#g1)"/>
+<text x="82.0" y="162" font-size="13" fill="#9ca3af" text-anchor="middle">Landing pages,</text>
+<text x="82.0" y="180" font-size="13" fill="#9ca3af" text-anchor="middle">portfólios e apps web</text>
+</g></g>
+<g class="c2"><g transform="translate(366,15)">
+<rect width="164" height="200" rx="18" fill="url(#f2)" stroke="url(#g2)" stroke-width="2"/>
+<circle cx="82.0" cy="58" r="34" fill="url(#g2)" opacity="0.9"/>
+<text x="82.0" y="70" font-size="34" text-anchor="middle">🎮</text>
+<text x="82.0" y="128" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Jogos</text>
+<rect x="64.0" y="138" width="36" height="3" rx="2" fill="url(#g2)"/>
+<text x="82.0" y="162" font-size="13" fill="#9ca3af" text-anchor="middle">2D, 3D e</text>
+<text x="82.0" y="180" font-size="13" fill="#9ca3af" text-anchor="middle">protótipos jogáveis</text>
+</g></g>
+<g class="c3"><g transform="translate(544,15)">
+<rect width="164" height="200" rx="18" fill="url(#f3)" stroke="url(#g3)" stroke-width="2"/>
+<circle cx="82.0" cy="58" r="34" fill="url(#g3)" opacity="0.9"/>
+<text x="82.0" y="70" font-size="34" text-anchor="middle">⚙️</text>
+<text x="82.0" y="128" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Automações</text>
+<rect x="64.0" y="138" width="36" height="3" rx="2" fill="url(#g3)"/>
+<text x="82.0" y="162" font-size="13" fill="#9ca3af" text-anchor="middle">Bots, scripts</text>
+<text x="82.0" y="180" font-size="13" fill="#9ca3af" text-anchor="middle">e integrações</text>
+</g></g>
+<g class="c4"><g transform="translate(722,15)">
+<rect width="164" height="200" rx="18" fill="url(#f4)" stroke="url(#g4)" stroke-width="2"/>
+<circle cx="82.0" cy="58" r="34" fill="url(#g4)" opacity="0.9"/>
+<text x="82.0" y="70" font-size="34" text-anchor="middle">🧩</text>
+<text x="82.0" y="128" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Sistemas</text>
+<rect x="64.0" y="138" width="36" height="3" rx="2" fill="url(#g4)"/>
+<text x="82.0" y="162" font-size="13" fill="#9ca3af" text-anchor="middle">APIs, dashboards</text>
+<text x="82.0" y="180" font-size="13" fill="#9ca3af" text-anchor="middle">e painéis</text>
+</g></g>
+</svg>
