@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Renan Roberto - Designer, Programador, Game Developer, Automações">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e1a"/><stop offset="0.55" stop-color="#150d2e"/><stop offset="1" stop-color="#0b1226"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+<linearGradient id="name" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+  <stop offset="0" stop-color="#c084fc"/><stop offset="0.35" stop-color="#ffffff"/><stop offset="0.65" stop-color="#67e8f9"/><stop offset="1" stop-color="#f472b6"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;300 0;-300 0" dur="8s" repeatCount="indefinite"/>
+</linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.07"/></pattern>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+<filter id="glow" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="card"><rect x="4" y="4" width="992" height="292" rx="22"/></clipPath>
+</defs>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:.75}}
+.f1{animation:fl 5s ease-in-out infinite}.f2{animation:fl 6s ease-in-out .8s infinite}.f3{animation:fl 7s ease-in-out 1.6s infinite}
+.p{animation:pulse 4s ease-in-out infinite}
+</style>
+<rect x="4" y="4" width="992" height="292" rx="22" fill="url(#bg)"/>
+<g clip-path="url(#card)">
+  <rect width="1000" height="300" fill="url(#dots)"/>
+  <circle class="p" cx="170" cy="60" r="110" fill="#7c3aed" filter="url(#blur)"/>
+  <circle class="p" cx="840" cy="250" r="120" fill="#06b6d4" filter="url(#blur)" style="animation-delay:1.5s"/>
+  <circle class="p" cx="560" cy="20" r="80" fill="#ec4899" filter="url(#blur)" style="animation-delay:3s"/>
+  <g fill="none" stroke="url(#bd)" stroke-width="2" opacity="0.5">
+    <g class="f1"><rect x="70" y="190" width="46" height="46" rx="10" transform="rotate(18 93 213)"/></g>
+    <g class="f2"><circle cx="900" cy="80" r="26"/></g>
+    <g class="f3"><path d="M890 220l26 44h-52z"/></g>
+    <g class="f2"><path d="M110 60l14 14-14 14-14-14z"/></g>
+  </g>
+  <text class="f1" x="40" y="150" font-size="64" font-weight="700" fill="#7c3aed" opacity="0.28">&lt;/&gt;</text>
+  <text class="f3" x="880" y="165" font-size="64" font-weight="700" fill="#22d3ee" opacity="0.2">{ }</text>
+</g>
+<text x="500" y="58" font-size="15" font-weight="600" letter-spacing="8" fill="#a78bfa" text-anchor="middle">&#8212;  OLÁ, EU SOU  &#8212;</text>
+<text x="500" y="152" font-size="84" font-weight="800" letter-spacing="2" fill="url(#name)" text-anchor="middle" filter="url(#glow)">RENAN ROBERTO</text>
+<rect x="430" y="172" width="140" height="4" rx="2" fill="url(#bd)"/>
+<g font-size="15" font-weight="600" text-anchor="middle" fill="#e5e7eb">
+  <g transform="translate(150,206)"><rect width="150" height="38" rx="19" fill="#ec4899" fill-opacity="0.14" stroke="#ec4899" stroke-opacity="0.7"/><text x="75" y="25">🎨 Designer</text></g>
+  <g transform="translate(314,206)"><rect width="170" height="38" rx="19" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-opacity="0.7"/><text x="85" y="25">💻 Programador</text></g>
+  <g transform="translate(498,206)"><rect width="170" height="38" rx="19" fill="#a855f7" fill-opacity="0.14" stroke="#a855f7" stroke-opacity="0.7"/><text x="85" y="25">🎮 Game Dev</text></g>
+  <g transform="translate(682,206)"><rect width="168" height="38" rx="19" fill="#f59e0b" fill-opacity="0.14" stroke="#f59e0b" stroke-opacity="0.7"/><text x="84" y="25">⚙️ Automações</text></g>
+</g>
+<rect x="4" y="4" width="992" height="292" rx="22" fill="none" stroke="url(#bd)" stroke-width="2.5"/>
+</svg>
